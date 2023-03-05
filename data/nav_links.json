@@ -1,0 +1,283 @@
+[
+	{
+		"link_level":"top",
+		"li_class" : "dropdown",
+		"link_display":"Today",
+		"link_display_sm":"Today",
+		"link_page":"/pages/today.php",
+		"link_tip":"Today's tasks",
+		"link_id":"index",
+		"link_class" : "",
+		"sub_menu":
+		[
+			{
+				"link_level":"top",
+				"li_class" : "dropdown",
+				"link_display":"Today",
+				"link_display_sm":"Today",
+				"link_page":"/pages/today.php",
+				"link_tip":"Today's tasks",
+				"link_id":"index",
+				"link_class" : "brand"
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Quick List",
+				"link_display_sm": "Quick List",
+				"link_page":"/pages/quick_list.php",
+				"link_tip":"Quick List",
+				"link_id":"",
+				"link_class" : ""
+			}
+		]
+	},
+	{	"link_level":"top",
+		"li_class" : "dropdown",
+		"link_display":"Contacts",
+		"link_display_sm":"Contacts",
+		"link_page":"/pages/contacts.php",
+		"link_tip":"Contacts",
+		"link_id":"",
+		"link_class" : "",
+		"sub_menu" :
+		[
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Contacts",
+				"link_display_sm":"Contacts",
+				"link_page":"/pages/contacts.php",
+				"link_tip":"Contacts",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Contact Sync - Mailchimp",
+				"link_display_sm":"Sync Mailchimp",
+				"link_page":"/pages/mailchimp_sync.php",
+				"link_tip":"Sync ToDo contacts with Mailchimp contacts",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Contact Sync - Nimble",
+				"link_display_sm":"Sync Nimble",
+				"link_page":"/pages/nimble_sync.php",
+				"link_tip":"Sync ToDo contacts with Nimble contacts",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Upload contacts",
+				"link_display_sm":"Upload contacts",
+				"link_page":"/pages/upload_contacts.php",
+				"link_tip":"Upload CSV of contacts",
+				"link_id":"",
+				"link_class" : ""
+			}
+		]
+	},
+	{	"link_level":"top",
+		"li_class" : "dropdown",
+		"link_display":"Projects",
+		"link_display_sm":"Projects",
+		"link_page":"/pages/projects.php",
+		"link_tip":"View to do items",
+		"link_id":"",
+		"link_class" : "",
+		"sub_menu":
+		[
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Projects",
+				"link_display_sm":"Projects",
+				"link_page":"/pages/projects.php",
+				"link_tip":"View to do items",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Project Billing",
+				"link_display_sm":"Project Billing",
+				"link_page":"/pages/time_report.php",
+				"link_tip":"Project billing report",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Unbilled Report",
+				"link_display_sm":"Unbilled Report",
+				"link_page":"/pages/unbilled_report.php",
+				"link_tip":"Unbilled activities report",
+				"link_id":"",
+				"link_class" : ""
+			}
+		]
+	},
+	{	"link_level":"top",
+		"li_class" : "",
+		"link_display":"Founders",
+		"link_display_sm":"Founders",
+		"link_page":"/pages/founders.php",
+		"link_tip":"View founders",
+		"link_id":"",
+		"link_class" : ""
+	},
+	{	"link_level":"top",
+		"li_class" : "dropdown",
+		"link_display":"Investors",
+		"link_display_sm":"Investors",
+		"link_page":"/pages/investors.php",
+		"link_tip":"View investors",
+		"link_id":"",
+		"link_class" : "",
+		"sub_menu" :
+		[
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Investors",
+				"link_display_sm":"Investors",
+				"link_page":"/pages/investors.php",
+				"link_tip":"View investors",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level": "sub",
+				"li_class": "",
+				"link_display": "Upload investors",
+				"link_display_sm": "Investors",
+				"link_page": "/pages/upload_investors.php",
+				"link_tip": "Upload investors",
+				"link_id": "",
+				"link_class": ""
+			}
+		]
+	},
+	{	"link_level":"top",
+		"li_class" : "dropdown",
+		"link_display":"Maintenance",
+		"link_display_sm":"Maintenance",
+		"link_page":"/pages/maint.php",
+		"link_tip":"View maintenance",
+		"link_id":"",
+		"link_class" : "",
+		"sub_menu" :
+		[
+			{
+				"link_level": "sub",
+				"li_class" : "",
+				"link_display":"Maintenance",
+				"link_display_sm":"Maintenance",
+				"link_page":"/pages/maint.php",
+				"link_tip":"View maintenance",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level": "sub",
+				"li_class" : "",
+				"link_display":"To Do Report",
+				"link_display_sm":"ToDo Rpt",
+				"link_page":"/pages/maint_todo.php",
+				"link_tip":"View open todo items",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Vendor management",
+				"link_display_sm":"Vendors",
+				"link_page":"/pages/vendors.php",
+				"link_tip":"Add/Delete/Edit vendors",
+				"link_id":"",
+				"link_class" : ""
+			}
+		]
+	},
+	{
+		"link_level":"top",
+		"li_class" : "dropdown",
+		"link_display":"Tools",
+		"link_display_sm":"Tools",
+		"link_page":"#",
+		"link_tip":"",
+		"link_id":"",
+		"link_class" : "",
+		"sub_menu" :
+		[
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Backup Data",
+				"link_display_sm":"Data B/u",
+				"link_page":"/pages/todo_db_backup.php",
+				"link_tip":"Backup ToDo databases",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Create Account",
+				"link_display_sm":"Acct",
+				"link_page":"/pages/create_account.php",
+				"link_tip":"Create New Account",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Digital Ocean Spaces",
+				"link_display_sm":"DO Spaces",
+				"link_page":"/sandbox/test_digitalocean_spaces.php",
+				"link_tip":"Manage files on Digital Ocean",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{
+				"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Digital Ocean Spaces V3",
+				"link_display_sm":"DO Spaces V3",
+				"link_page":"/pages/digitalocean_spaces_v3.php",
+				"link_tip":"Manage files on Digital Ocean",
+				"link_id":"",
+				"link_class" : ""
+			},
+			{	"link_level":"sub",
+				"li_class" : "",
+				"link_display":"Past Due",
+				"link_display_sm":"Past Due",
+				"link_page":"/pages/pastdue.php",
+				"link_tip":"Past due todos",
+				"link_id":"",
+				"link_class" : ""
+			}
+		]
+	},
+	{	"link_level":"top",
+		"li_class" : "",
+		"link_display":"Logout",
+		"link_display_sm":"Logout",
+		"link_page":"/pages/logout.php",
+		"link_tip":"Logout",
+		"link_id":"",
+		"link_class" : ""
+	}
+]

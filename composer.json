@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-curl": "*",
+        "stefangabos/zebra_session": "3.*"
+    }
+}
